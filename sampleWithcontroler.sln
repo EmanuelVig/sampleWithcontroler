@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sampleWithcontroler", "sampleWithcontroler\sampleWithcontroler.csproj", "{2D64A2D5-935D-48C8-A512-969A3569B87E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D64A2D5-935D-48C8-A512-969A3569B87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D64A2D5-935D-48C8-A512-969A3569B87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D64A2D5-935D-48C8-A512-969A3569B87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D64A2D5-935D-48C8-A512-969A3569B87E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AC08C96-FE8E-4074-85D0-A2EA7BA545D0}
+	EndGlobalSection
+EndGlobal
